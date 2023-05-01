@@ -33,11 +33,11 @@ body {
 }
 
 .logo, .register {
-	width: 19.375rem;
+	width: 40%;
 }
 
 .nav-bar {
-	width: 53.375rem;
+	width: 60%;
 }
 
 .logo, .nav-bar, .register, .banner {
